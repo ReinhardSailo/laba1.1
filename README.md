@@ -1,5 +1,6 @@
 # laba1.1
 Slasyonov Andrey, ITS-b-o-22-1, basics of crossplatform programming
+<<<<<<< HEAD
 
 // Пример программы на JavaScript
 function sayHello() {
@@ -28,3 +29,5 @@ console.log("Это шестой коммит");
 
 // Коммит 7: Добавлена седьмая строка кода
 console.log("Это седьмой коммит");
+=======
+>>>>>>> 7c390d291058eb53db6f86fa4c281926c1c58a83
